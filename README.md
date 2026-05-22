@@ -5,7 +5,7 @@
 
 ***
 
-## 📌 Project Overview
+## 📌 About This Grind
 
 This project is a **60-day deep-dive** into rebuilding NumPy's core functionality using only Python built-ins. The goal is to understand what NumPy does *under the hood* — how arrays are shaped, how operations broadcast, how reductions work — all without importing NumPy itself.
 
